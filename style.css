@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+  justify-content: end;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+}
+
+#app {
+  text-align: center;
+  color: white;
+}
+
+.btn {
+  justify-content: center;
+  width: 150px;
+  height: 80px;
+  text-align: center;
+  padding: 30px;
+}
+
+.display {
+  text-align: center;
+  background: cyan;
+  width: 150px;
+  height: 80px;
+}
+
+.display-negative {
+  text-align: center;
+  background-color: maroon;
+  width: 150px;
+  height: 80px;
+}
+
+.display-positive {
+  text-align: center;
+  background-color: green;
+  width: 150px;
+  height: 80px;
+}
